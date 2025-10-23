@@ -47,6 +47,10 @@
 
 ---
 
+![snake gif](https://github.com/olcanyldz/olcanyldz/blob/output/github-contribution-grid-snake.gif)
+
+
+
 <p align="center" style="color:#58A6FF; font-size:18px;">
   <b>Code. Create. Grow.</b>
 </p>
